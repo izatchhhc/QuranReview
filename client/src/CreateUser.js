@@ -8,6 +8,8 @@ const CreateUser = () => {
   const [memorizationBank, setMemorizationBank] = useState([]);
   const [reviewBank, setReviewBank] = useState([]);
 
+  const apiUrl = process.env.REACT_APP_API_URL;
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     const user = { name, rakahs, memorizationBank, reviewBank };
