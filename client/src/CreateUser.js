@@ -13,7 +13,7 @@ const CreateUser = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     const user = { name, rakahs, memorizationBank, reviewBank };
-    await axios.post('/createUser', user);
+    await axios.post(`${apiUrl}/createUser`, user);
     alert('User created!');
   };
 
