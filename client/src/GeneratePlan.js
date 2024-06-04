@@ -7,6 +7,8 @@ const GeneratePlan = () => {
   const [reviewBank, setReviewBank] = useState([]);
   const [plan, setPlan] = useState([]);
 
+  const apiUrl = process.env.REACT_APP_API_URL;
+
   const handleGenerate = async (e) => {
     e.preventDefault();
     const response = await axios.post(`${apiUrl}/generatePlan`, { rakahs, memorizationBank, reviewBank });
