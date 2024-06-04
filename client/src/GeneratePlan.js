@@ -9,7 +9,7 @@ const GeneratePlan = () => {
 
   const handleGenerate = async (e) => {
     e.preventDefault();
-    const response = await axios.post('/generatePlan', { rakahs, memorizationBank, reviewBank });
+    const response = await axios.post(`${apiUrl}/generatePlan`, { rakahs, memorizationBank, reviewBank });
     setPlan(response.data);
   };
 
