@@ -7,13 +7,15 @@ const SurahSelection = ({ addToBank }) => {
   const [startVerse, setStartVerse] = useState(1);
   const [endVerse, setEndVerse] = useState(1);
 
+  const apiUrl = process.env.REACT_APP_API_URL;
+
   useEffect(() => {
     const fetchSurahs = async () => {
-      const response = await axios.get('/surahs');
+      const response = await axios.get(`${apiUrl}/surahs`);
       setSurahs(response.data);
     };
     fetchSurahs();
-  }, []);
+  }, [apiUrl]);
 
   const handleSurahChange = (e) => {
     const surah = surahs.find(s => s.number === parseInt(e.target.value));
