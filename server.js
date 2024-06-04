@@ -10,7 +10,7 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors());
 
-mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost:27017/quranApp', {
+mongoose.connect(process.env.apple, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
@@ -78,4 +78,3 @@ app.get('*', (req, res) => {
 app.listen(process.env.PORT || 3000, () => {
   console.log('Server running on port 3000');
 });
-
