@@ -1,1 +1,573 @@
+[
+  {
+    "name": "Al-Fatiha",
+    "number": 1,
+    "verses": 7
+  },
+  {
+    "name": "Al-Baqara",
+    "number": 2,
+    "verses": 286
+  },
+  {
+    "name": "Aal-E-Imran",
+    "number": 3,
+    "verses": 200
+  },
+  {
+    "name": "An-Nisa",
+    "number": 4,
+    "verses": 176
+  },
+  {
+    "name": "Al-Ma'ida",
+    "number": 5,
+    "verses": 120
+  },
+  {
+    "name": "Al-An'am",
+    "number": 6,
+    "verses": 165
+  },
+  {
+    "name": "Al-A'raf",
+    "number": 7,
+    "verses": 206
+  },
+  {
+    "name": "Al-Anfal",
+    "number": 8,
+    "verses": 75
+  },
+  {
+    "name": "At-Tawba",
+    "number": 9,
+    "verses": 129
+  },
+  {
+    "name": "Yunus",
+    "number": 10,
+    "verses": 109
+  },
+  {
+    "name": "Hud",
+    "number": 11,
+    "verses": 123
+  },
+  {
+    "name": "Yusuf",
+    "number": 12,
+    "verses": 111
+  },
+  {
+    "name": "Ar-Ra'd",
+    "number": 13,
+    "verses": 43
+  },
+  {
+    "name": "Ibrahim",
+    "number": 14,
+    "verses": 52
+  },
+  {
+    "name": "Al-Hijr",
+    "number": 15,
+    "verses": 99
+  },
+  {
+    "name": "An-Nahl",
+    "number": 16,
+    "verses": 128
+  },
+  {
+    "name": "Al-Isra",
+    "number": 17,
+    "verses": 111
+  },
+  {
+    "name": "Al-Kahf",
+    "number": 18,
+    "verses": 110
+  },
+  {
+    "name": "Maryam",
+    "number": 19,
+    "verses": 98
+  },
+  {
+    "name": "Ta-Ha",
+    "number": 20,
+    "verses": 135
+  },
+  {
+    "name": "Al-Anbiya",
+    "number": 21,
+    "verses": 112
+  },
+  {
+    "name": "Al-Hajj",
+    "number": 22,
+    "verses": 78
+  },
+  {
+    "name": "Al-Mu'minun",
+    "number": 23,
+    "verses": 118
+  },
+  {
+    "name": "An-Nur",
+    "number": 24,
+    "verses": 64
+  },
+  {
+    "name": "Al-Furqan",
+    "number": 25,
+    "verses": 77
+  },
+  {
+    "name": "Ash-Shu'ara",
+    "number": 26,
+    "verses": 227
+  },
+  {
+    "name": "An-Naml",
+    "number": 27,
+    "verses": 93
+  },
+  {
+    "name": "Al-Qasas",
+    "number": 28,
+    "verses": 88
+  },
+  {
+    "name": "Al-Ankabut",
+    "number": 29,
+    "verses": 69
+  },
+  {
+    "name": "Ar-Rum",
+    "number": 30,
+    "verses": 60
+  },
+  {
+    "name": "Luqman",
+    "number": 31,
+    "verses": 34
+  },
+  {
+    "name": "As-Sajda",
+    "number": 32,
+    "verses": 30
+  },
+  {
+    "name": "Al-Ahzab",
+    "number": 33,
+    "verses": 73
+  },
+  {
+    "name": "Saba",
+    "number": 34,
+    "verses": 54
+  },
+  {
+    "name": "Fatir",
+    "number": 35,
+    "verses": 45
+  },
+  {
+    "name": "Ya-Sin",
+    "number": 36,
+    "verses": 83
+  },
+  {
+    "name": "As-Saffat",
+    "number": 37,
+    "verses": 182
+  },
+  {
+    "name": "Sad",
+    "number": 38,
+    "verses": 88
+  },
+  {
+    "name": "Az-Zumar",
+    "number": 39,
+    "verses": 75
+  },
+  {
+    "name": "Ghafir",
+    "number": 40,
+    "verses": 85
+  },
+  {
+    "name": "Fussilat",
+    "number": 41,
+    "verses": 54
+  },
+  {
+    "name": "Ash-Shura",
+    "number": 42,
+    "verses": 53
+  },
+  {
+    "name": "Az-Zukhruf",
+    "number": 43,
+    "verses": 89
+  },
+  {
+    "name": "Ad-Dukhan",
+    "number": 44,
+    "verses": 59
+  },
+  {
+    "name": "Al-Jathiya",
+    "number": 45,
+    "verses": 37
+  },
+  {
+    "name": "Al-Ahqaf",
+    "number": 46,
+    "verses": 35
+  },
+  {
+    "name": "Muhammad",
+    "number": 47,
+    "verses": 38
+  },
+  {
+    "name": "Al-Fath",
+    "number": 48,
+    "verses": 29
+  },
+  {
+    "name": "Al-Hujurat",
+    "number": 49,
+    "verses": 18
+  },
+  {
+    "name": "Qaf",
+    "number": 50,
+    "verses": 45
+  },
+  {
+    "name": "Adh-Dhariyat",
+    "number": 51,
+    "verses": 60
+  },
+  {
+    "name": "At-Tur",
+    "number": 52,
+    "verses": 49
+  },
+  {
+    "name": "An-Najm",
+    "number": 53,
+    "verses": 62
+  },
+  {
+    "name": "Al-Qamar",
+    "number": 54,
+    "verses": 55
+  },
+  {
+    "name": "Ar-Rahman",
+    "number": 55,
+    "verses": 78
+  },
+  {
+    "name": "Al-Waqia",
+    "number": 56,
+    "verses": 96
+  },
+  {
+    "name": "Al-Hadid",
+    "number": 57,
+    "verses": 29
+  },
+  {
+    "name": "Al-Mujadila",
+    "number": 58,
+    "verses": 22
+  },
+  {
+    "name": "Al-Hashr",
+    "number": 59,
+    "verses": 24
+  },
+  {
+    "name": "Al-Mumtahina",
+    "number": 60,
+    "verses": 13
+  },
+  {
+    "name": "As-Saff",
+    "number": 61,
+    "verses": 14
+  },
+  {
+    "name": "Al-Jumua",
+    "number": 62,
+    "verses": 11
+  },
+  {
+    "name": "Al-Munafiqun",
+    "number": 63,
+    "verses": 11
+  },
+  {
+    "name": "At-Taghabun",
+    "number": 64,
+    "verses": 18
+  },
+  {
+    "name": "At-Talaq",
+    "number": 65,
+    "verses": 12
+  },
+  {
+    "name": "At-Tahrim",
+    "number": 66,
+    "verses": 12
+  },
+  {
+    "name": "Al-Mulk",
+    "number": 67,
+    "verses": 30
+  },
+  {
+    "name": "Al-Qalam",
+    "number": 68,
+    "verses": 52
+  },
+  {
+    "name": "Al-Haaqqa",
+    "number": 69,
+    "verses": 52
+  },
+  {
+    "name": "Al-Maarij",
+    "number": 70,
+    "verses": 44
+  },
+  {
+    "name": "Nuh",
+    "number": 71,
+    "verses": 28
+  },
+  {
+    "name": "Al-Jinn",
+    "number": 72,
+    "verses": 28
+  },
+  {
+    "name": "Al-Muzzammil",
+    "number": 73,
+    "verses": 20
+  },
+  {
+    "name": "Al-Muddaththir",
+    "number": 74,
+    "verses": 56
+  },
+  {
+    "name": "Al-Qiyama",
+    "number": 75,
+    "verses": 40
+  },
+  {
+    "name": "Al-Insan",
+    "number": 76,
+    "verses": 31
+  },
+  {
+    "name": "Al-Mursalat",
+    "number": 77,
+    "verses": 50
+  },
+  {
+    "name": "An-Naba",
+    "number": 78,
+    "verses": 40
+  },
+  {
+    "name": "An-Naziat",
+    "number": 79,
+    "verses": 46
+  },
+  {
+    "name": "Abasa",
+    "number": 80,
+    "verses": 42
+  },
+  {
+    "name": "At-Takwir",
+    "number": 81,
+    "verses": 29
+  },
+  {
+    "name": "Al-Infitar",
+    "number": 82,
+    "verses": 19
+  },
+  {
+    "name": "Al-Mutaffifin",
+    "number": 83,
+    "verses": 36
+  },
+  {
+    "name": "Al-Inshiqaq",
+    "number": 84,
+    "verses": 25
+  },
+  {
+    "name": "Al-Buruj",
+    "number": 85,
+    "verses": 22
+  },
+  {
+    "name": "At-Tariq",
+    "number": 86,
+    "verses": 17
+  },
+  {
+    "name": "Al-Ala",
+    "number": 87,
+    "verses": 19
+  },
+  {
+    "name": "Al-Ghashiya",
+    "number": 88,
+    "verses": 26
+  },
+  {
+    "name": "Al-Fajr",
+    "number": 89,
+    "verses": 30
+  },
+  {
+    "name": "Al-Balad",
+    "number": 90,
+    "verses": 20
+  },
+  {
+    "name": "Ash-Shams",
+    "number": 91,
+    "verses": 15
+  },
+  {
+    "name": "Al-Lail",
+    "number": 92,
+    "verses": 21
+  },
+  {
+    "name": "Ad-Duha",
+    "number": 93,
+    "verses": 11
+  },
+  {
+    "name": "Ash-Sharh",
+    "number": 94,
+    "verses": 8
+  },
+  {
+    "name": "At-Tin",
+    "number": 95,
+    "verses": 8
+  },
+  {
+    "name": "Al-Alaq",
+    "number": 96,
+    "verses": 19
+  },
+  {
+    "name": "Al-Qadr",
+    "number": 97,
+    "verses": 5
+  },
+  {
+    "name": "Al-Bayyina",
+    "number": 98,
+    "verses": 8
+  },
+  {
+    "name": "Az-Zalzala",
+    "number": 99,
+    "verses": 8
+  },
+  {
+    "name": "Al-Adiyat",
+    "number": 100,
+    "verses": 11
+  },
+  {
+    "name": "Al-Qaria",
+    "number": 101,
+    "verses": 11
+  },
+  {
+    "name": "At-Takathur",
+    "number": 102,
+    "verses": 8
+  },
+  {
+    "name": "Al-Asr",
+    "number": 103,
+    "verses": 3
+  },
+  {
+    "name": "Al-Humaza",
+    "number": 104,
+    "verses": 9
+  },
+  {
+    "name": "Al-Fil",
+    "number": 105,
+    "verses": 5
+  },
+  {
+    "name": "Quraish",
+    "number": 106,
+    "verses": 4
+  },
+  {
+    "name": "Al-Ma'un",
+    "number": 107,
+    "verses": 7
+  },
+  {
+    "name": "Al-Kawthar",
+    "number": 108,
+    "verses": 3
+  },
+  {
+    "name": "Al-Kafirun",
+    "number": 109,
+    "verses": 6
+  },
+  {
+    "name": "An-Nasr",
+    "number": 110,
+    "verses": 3
+  },
+  {
+    "name": "Al-Masad",
+    "number": 111,
+    "verses": 5
+  },
+  {
+    "name": "Al-Ikhlas",
+    "number": 112,
+    "verses": 4
+  },
+  {
+    "name": "Al-Falaq",
+    "number": 113,
+    "verses": 5
+  },
+  {
+    "name": "An-Nas",
+    "number": 114,
+    "verses": 6
+  }
+]
 
